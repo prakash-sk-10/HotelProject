@@ -1,0 +1,17 @@
+com\omrbranch\stepdefinition\TC001_LoginStep.class
+com\omrbranch\report\Reporting.class
+com\omrbranch\manager\PageObjectManager.class
+com\omrbranch\hooks\HooksClass.class
+com\omrbranch\stepdefinition\TC005_ChangeBookingStep.class
+com\omrbranch\utility\BaseClass.class
+com\omrbranch\pages\ExploreHotelPage.class
+com\omrbranch\pages\SelectHotelPage.class
+com\omrbranch\pages\BookHotelPage.class
+com\omrbranch\stepdefinition\TC006_CancelBookingStep.class
+com\omrbranch\stepdefinition\TC002_ExploreHotelsStep.class
+com\omrbranch\stepdefinition\TC003_SelectHotelStep.class
+com\omrbranch\pages\LoginPage.class
+com\omrbranch\runner\TestRunnerClass.class
+com\omrbranch\pages\MyBookingPage.class
+com\omrbranch\stepdefinition\TC004_BookHotelStep.class
+com\omrbranch\pages\BookingConfirmPage.class

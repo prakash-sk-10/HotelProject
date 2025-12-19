@@ -1,0 +1,372 @@
+2025-12-17 15:52:24 INFO  com.omrbranch.utility.BaseClass - Config.properties loaded successfully from: C:\Users\Admin\eclipse-workspace\OmrBranchHotelProject_PrakashSK\src\test\resources\config\Config.properties
+2025-12-17 15:52:24 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-17 15:52:24 INFO  com.omrbranch.hooks.HooksClass - Scenario Started : Verify login with valid credentials without Enter Key
+2025-12-17 15:52:24 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-17 15:52:24 INFO  com.omrbranch.hooks.HooksClass - Launching browser
+2025-12-17 15:52:24 INFO  com.omrbranch.utility.BaseClass - Launching browser: CHROME
+2025-12-17 15:52:28 INFO  com.omrbranch.utility.BaseClass - Browser launched successfully | Browser=CHROME | ImplicitWait=15s
+2025-12-17 15:52:28 INFO  com.omrbranch.hooks.HooksClass - Entering application URL
+2025-12-17 15:52:28 INFO  com.omrbranch.utility.BaseClass - Navigating to URL (QA) : https://www.omrbranch.com/
+2025-12-17 15:52:31 INFO  com.omrbranch.manager.PageObjectManager - Initializing LoginPage...
+2025-12-17 15:52:32 INFO  com.omrbranch.manager.PageObjectManager - Initializing ExploreHotelPage...
+2025-12-17 15:52:35 INFO  com.omrbranch.hooks.HooksClass - Scenario Passed : Verify login with valid credentials without Enter Key
+2025-12-17 15:52:35 INFO  com.omrbranch.hooks.HooksClass - Capturing screenshot
+2025-12-17 15:52:35 INFO  com.omrbranch.hooks.HooksClass - Closing browser
+2025-12-17 15:52:35 INFO  com.omrbranch.utility.BaseClass - Quitting browser session
+2025-12-17 15:52:36 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-17 15:52:36 INFO  com.omrbranch.hooks.HooksClass - Scenario Ended : Verify login with valid credentials without Enter Key
+2025-12-17 15:52:36 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-17 15:52:36 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-17 15:52:36 INFO  com.omrbranch.hooks.HooksClass - Scenario Started : Verify login with valid credentials using Enter Key via Robot Class
+2025-12-17 15:52:36 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-17 15:52:36 INFO  com.omrbranch.hooks.HooksClass - Launching browser
+2025-12-17 15:52:36 INFO  com.omrbranch.utility.BaseClass - Launching browser: CHROME
+2025-12-17 15:52:37 INFO  com.omrbranch.utility.BaseClass - Browser launched successfully | Browser=CHROME | ImplicitWait=15s
+2025-12-17 15:52:37 INFO  com.omrbranch.hooks.HooksClass - Entering application URL
+2025-12-17 15:52:37 INFO  com.omrbranch.utility.BaseClass - Navigating to URL (QA) : https://www.omrbranch.com/
+2025-12-17 15:52:39 INFO  com.omrbranch.manager.PageObjectManager - Initializing ExploreHotelPage...
+2025-12-17 15:53:09 ERROR com.omrbranch.hooks.HooksClass - Scenario Failed : Verify login with valid credentials using Enter Key via Robot Class
+2025-12-17 15:53:09 INFO  com.omrbranch.hooks.HooksClass - Capturing screenshot
+2025-12-17 15:53:10 INFO  com.omrbranch.hooks.HooksClass - Closing browser
+2025-12-17 15:53:10 INFO  com.omrbranch.utility.BaseClass - Quitting browser session
+2025-12-17 15:53:10 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-17 15:53:10 INFO  com.omrbranch.hooks.HooksClass - Scenario Ended : Verify login with valid credentials using Enter Key via Robot Class
+2025-12-17 15:53:10 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-17 15:53:23 INFO  com.omrbranch.runner.TestRunnerClass - Cucumber execution completed. Generating JVM report from: C:\Users\Admin\eclipse-workspace\OmrBranchHotelProject_PrakashSK/target/output.json
+2025-12-17 15:53:23 INFO  com.omrbranch.report.Reporting - Starting JVM Report Generation...
+2025-12-17 15:53:23 INFO  com.omrbranch.report.Reporting - Created report directory: C:\Users\Admin\eclipse-workspace\OmrBranchHotelProject_PrakashSK\target\JVM_Report_20251217_155323
+2025-12-17 15:53:23 INFO  com.omrbranch.report.Reporting - Generating JVM report for JSON file(s): [C:\Users\Admin\eclipse-workspace\OmrBranchHotelProject_PrakashSK/target/output.json]
+2025-12-17 15:53:25 INFO  com.omrbranch.report.Reporting - ------------------------------------------------------------
+2025-12-17 15:53:25 INFO  com.omrbranch.report.Reporting - JVM Report Generated Successfully!
+2025-12-17 15:53:25 INFO  com.omrbranch.report.Reporting - Location : C:\Users\Admin\eclipse-workspace\OmrBranchHotelProject_PrakashSK\target\JVM_Report_20251217_155323
+2025-12-17 15:53:25 INFO  com.omrbranch.report.Reporting - Project  : OMR Branch Hotel Automation
+2025-12-17 15:53:25 INFO  com.omrbranch.report.Reporting - Author   : PrakashSK
+2025-12-17 15:53:25 INFO  com.omrbranch.report.Reporting - Env      : QA
+2025-12-17 15:53:25 INFO  com.omrbranch.report.Reporting - Time     : 20251217_155323
+2025-12-17 15:53:25 INFO  com.omrbranch.report.Reporting - ------------------------------------------------------------
+2025-12-17 15:53:25 INFO  com.omrbranch.runner.TestRunnerClass - JVM report generated successfully.
+2025-12-17 15:55:12 INFO  com.omrbranch.utility.BaseClass - Config.properties loaded successfully from: C:\Users\Admin\eclipse-workspace\OmrBranchHotelProject_PrakashSK\src\test\resources\config\Config.properties
+2025-12-17 15:55:12 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-17 15:55:12 INFO  com.omrbranch.hooks.HooksClass - Scenario Started : Verify login with valid credentials without Enter Key
+2025-12-17 15:55:12 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-17 15:55:12 INFO  com.omrbranch.hooks.HooksClass - Launching browser
+2025-12-17 15:55:12 INFO  com.omrbranch.utility.BaseClass - Launching browser: CHROME
+2025-12-17 15:55:14 INFO  com.omrbranch.utility.BaseClass - Browser launched successfully | Browser=CHROME | ImplicitWait=15s
+2025-12-17 15:55:14 INFO  com.omrbranch.hooks.HooksClass - Entering application URL
+2025-12-17 15:55:14 INFO  com.omrbranch.utility.BaseClass - Navigating to URL (QA) : https://www.omrbranch.com/
+2025-12-17 15:55:16 INFO  com.omrbranch.manager.PageObjectManager - Initializing LoginPage...
+2025-12-17 15:55:17 INFO  com.omrbranch.manager.PageObjectManager - Initializing ExploreHotelPage...
+2025-12-17 15:55:20 INFO  com.omrbranch.hooks.HooksClass - Scenario Passed : Verify login with valid credentials without Enter Key
+2025-12-17 15:55:20 INFO  com.omrbranch.hooks.HooksClass - Capturing screenshot
+2025-12-17 15:55:20 INFO  com.omrbranch.hooks.HooksClass - Closing browser
+2025-12-17 15:55:20 INFO  com.omrbranch.utility.BaseClass - Quitting browser session
+2025-12-17 15:55:20 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-17 15:55:20 INFO  com.omrbranch.hooks.HooksClass - Scenario Ended : Verify login with valid credentials without Enter Key
+2025-12-17 15:55:20 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-17 15:55:24 INFO  com.omrbranch.runner.TestRunnerClass - Cucumber execution completed. Generating JVM report from: C:\Users\Admin\eclipse-workspace\OmrBranchHotelProject_PrakashSK/target/output.json
+2025-12-17 15:55:24 INFO  com.omrbranch.report.Reporting - Starting JVM Report Generation...
+2025-12-17 15:55:24 INFO  com.omrbranch.report.Reporting - Created report directory: C:\Users\Admin\eclipse-workspace\OmrBranchHotelProject_PrakashSK\target\JVM_Report_20251217_155524
+2025-12-17 15:55:24 INFO  com.omrbranch.report.Reporting - Generating JVM report for JSON file(s): [C:\Users\Admin\eclipse-workspace\OmrBranchHotelProject_PrakashSK/target/output.json]
+2025-12-17 15:55:26 INFO  com.omrbranch.report.Reporting - ------------------------------------------------------------
+2025-12-17 15:55:26 INFO  com.omrbranch.report.Reporting - JVM Report Generated Successfully!
+2025-12-17 15:55:26 INFO  com.omrbranch.report.Reporting - Location : C:\Users\Admin\eclipse-workspace\OmrBranchHotelProject_PrakashSK\target\JVM_Report_20251217_155524
+2025-12-17 15:55:26 INFO  com.omrbranch.report.Reporting - Project  : OMR Branch Hotel Automation
+2025-12-17 15:55:26 INFO  com.omrbranch.report.Reporting - Author   : PrakashSK
+2025-12-17 15:55:26 INFO  com.omrbranch.report.Reporting - Env      : QA
+2025-12-17 15:55:26 INFO  com.omrbranch.report.Reporting - Time     : 20251217_155524
+2025-12-17 15:55:26 INFO  com.omrbranch.report.Reporting - ------------------------------------------------------------
+2025-12-17 15:55:26 INFO  com.omrbranch.runner.TestRunnerClass - JVM report generated successfully.
+2025-12-17 16:02:17 INFO  com.omrbranch.utility.BaseClass - Config.properties loaded successfully from: C:\Users\Admin\eclipse-workspace\OmrBranchHotelProject_PrakashSK\src\test\resources\config\Config.properties
+2025-12-17 16:02:17 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-17 16:02:17 INFO  com.omrbranch.hooks.HooksClass - Scenario Started : Verify login with valid credentials without Enter Key
+2025-12-17 16:02:17 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-17 16:02:17 INFO  com.omrbranch.hooks.HooksClass - Launching browser
+2025-12-17 16:02:17 INFO  com.omrbranch.utility.BaseClass - Launching browser: CHROME
+2025-12-17 16:02:19 INFO  com.omrbranch.utility.BaseClass - Browser launched successfully | Browser=CHROME | ImplicitWait=15s
+2025-12-17 16:02:19 INFO  com.omrbranch.hooks.HooksClass - Entering application URL
+2025-12-17 16:02:19 INFO  com.omrbranch.utility.BaseClass - Navigating to URL (QA) : https://www.omrbranch.com/
+2025-12-17 16:02:21 INFO  com.omrbranch.manager.PageObjectManager - Initializing LoginPage...
+2025-12-17 16:02:22 INFO  com.omrbranch.manager.PageObjectManager - Initializing ExploreHotelPage...
+2025-12-17 16:02:25 INFO  com.omrbranch.hooks.HooksClass - Scenario Passed : Verify login with valid credentials without Enter Key
+2025-12-17 16:02:25 INFO  com.omrbranch.hooks.HooksClass - Capturing screenshot
+2025-12-17 16:02:25 INFO  com.omrbranch.hooks.HooksClass - Closing browser
+2025-12-17 16:02:25 INFO  com.omrbranch.utility.BaseClass - Quitting browser session
+2025-12-17 16:02:26 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-17 16:02:26 INFO  com.omrbranch.hooks.HooksClass - Scenario Ended : Verify login with valid credentials without Enter Key
+2025-12-17 16:02:26 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-17 16:02:30 INFO  com.omrbranch.runner.TestRunnerClass - Cucumber execution completed. Generating JVM report from: C:\Users\Admin\eclipse-workspace\OmrBranchHotelProject_PrakashSK/target/output.json
+2025-12-17 16:02:30 INFO  com.omrbranch.report.Reporting - Starting JVM Report Generation...
+2025-12-17 16:02:30 INFO  com.omrbranch.report.Reporting - Created report directory: C:\Users\Admin\eclipse-workspace\OmrBranchHotelProject_PrakashSK\target\JVM_Report_20251217_160230
+2025-12-17 16:02:30 INFO  com.omrbranch.report.Reporting - Generating JVM report for JSON file(s): [C:\Users\Admin\eclipse-workspace\OmrBranchHotelProject_PrakashSK/target/output.json]
+2025-12-17 16:02:32 INFO  com.omrbranch.report.Reporting - ------------------------------------------------------------
+2025-12-17 16:02:32 INFO  com.omrbranch.report.Reporting - JVM Report Generated Successfully!
+2025-12-17 16:02:32 INFO  com.omrbranch.report.Reporting - Location : C:\Users\Admin\eclipse-workspace\OmrBranchHotelProject_PrakashSK\target\JVM_Report_20251217_160230
+2025-12-17 16:02:32 INFO  com.omrbranch.report.Reporting - Project  : OMR Branch Hotel Automation
+2025-12-17 16:02:32 INFO  com.omrbranch.report.Reporting - Author   : PrakashSK
+2025-12-17 16:02:32 INFO  com.omrbranch.report.Reporting - Env      : QA
+2025-12-17 16:02:32 INFO  com.omrbranch.report.Reporting - Time     : 20251217_160230
+2025-12-17 16:02:32 INFO  com.omrbranch.report.Reporting - ------------------------------------------------------------
+2025-12-17 16:02:32 INFO  com.omrbranch.runner.TestRunnerClass - JVM report generated successfully.
+2025-12-17 16:59:06 INFO  com.omrbranch.utility.BaseClass - Config.properties loaded successfully from: C:\Users\Admin\eclipse-workspace\OmrBranchHotelProject_PrakashSK\src\test\resources\config\Config.properties
+2025-12-17 16:59:06 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-17 16:59:06 INFO  com.omrbranch.hooks.HooksClass - Scenario Started : Verify login with valid credentials without Enter Key
+2025-12-17 16:59:06 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-17 16:59:06 INFO  com.omrbranch.hooks.HooksClass - Launching browser
+2025-12-17 16:59:06 INFO  com.omrbranch.utility.BaseClass - Launching browser: CHROME
+2025-12-17 16:59:20 INFO  com.omrbranch.utility.BaseClass - Browser launched successfully | Browser=CHROME | ImplicitWait=15s
+2025-12-17 16:59:20 INFO  com.omrbranch.hooks.HooksClass - Entering application URL
+2025-12-17 16:59:20 INFO  com.omrbranch.utility.BaseClass - Navigating to URL (QA) : https://www.omrbranch.com/
+2025-12-17 16:59:50 INFO  com.omrbranch.manager.PageObjectManager - Initializing LoginPage...
+2025-12-17 16:59:51 INFO  com.omrbranch.manager.PageObjectManager - Initializing ExploreHotelPage...
+2025-12-17 17:00:02 INFO  com.omrbranch.hooks.HooksClass - Scenario Passed : Verify login with valid credentials without Enter Key
+2025-12-17 17:00:02 INFO  com.omrbranch.hooks.HooksClass - Capturing screenshot
+2025-12-17 17:00:02 INFO  com.omrbranch.hooks.HooksClass - Closing browser
+2025-12-17 17:00:02 INFO  com.omrbranch.utility.BaseClass - Quitting browser session
+2025-12-17 17:00:03 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-17 17:00:03 INFO  com.omrbranch.hooks.HooksClass - Scenario Ended : Verify login with valid credentials without Enter Key
+2025-12-17 17:00:03 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-17 17:00:08 INFO  com.omrbranch.runner.TestRunnerClass - Cucumber execution completed. Generating JVM report from: C:\Users\Admin\eclipse-workspace\OmrBranchHotelProject_PrakashSK/target/output.json
+2025-12-17 17:00:08 INFO  com.omrbranch.report.Reporting - Starting JVM Report Generation...
+2025-12-17 17:00:08 INFO  com.omrbranch.report.Reporting - Created report directory: C:\Users\Admin\eclipse-workspace\OmrBranchHotelProject_PrakashSK\target\JVM_Report_20251217_170008
+2025-12-17 17:00:08 INFO  com.omrbranch.report.Reporting - Generating JVM report for JSON file(s): [C:\Users\Admin\eclipse-workspace\OmrBranchHotelProject_PrakashSK/target/output.json]
+2025-12-17 17:00:09 INFO  com.omrbranch.report.Reporting - ------------------------------------------------------------
+2025-12-17 17:00:09 INFO  com.omrbranch.report.Reporting - JVM Report Generated Successfully!
+2025-12-17 17:00:09 INFO  com.omrbranch.report.Reporting - Location : C:\Users\Admin\eclipse-workspace\OmrBranchHotelProject_PrakashSK\target\JVM_Report_20251217_170008
+2025-12-17 17:00:09 INFO  com.omrbranch.report.Reporting - Project  : OMR Branch Hotel Automation
+2025-12-17 17:00:09 INFO  com.omrbranch.report.Reporting - Author   : Prakash.S.K
+2025-12-17 17:00:09 INFO  com.omrbranch.report.Reporting - Env      : QA
+2025-12-17 17:00:09 INFO  com.omrbranch.report.Reporting - Time     : 20251217_170008
+2025-12-17 17:00:09 INFO  com.omrbranch.report.Reporting - ------------------------------------------------------------
+2025-12-17 17:00:09 INFO  com.omrbranch.runner.TestRunnerClass - JVM report generated successfully.
+2025-12-17 19:24:41 INFO  com.omrbranch.utility.BaseClass - Config.properties loaded successfully from: C:\Users\Admin\eclipse-workspace\OmrBranchHotelProject_PrakashSK\src\test\resources\config\Config.properties
+2025-12-17 19:24:41 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-17 19:24:41 INFO  com.omrbranch.hooks.HooksClass - Scenario Started : Verify login with valid credentials without Enter Key
+2025-12-17 19:24:41 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-17 19:24:41 INFO  com.omrbranch.hooks.HooksClass - Launching browser
+2025-12-17 19:24:41 INFO  com.omrbranch.utility.BaseClass - Launching browser: CHROME
+2025-12-17 19:24:45 INFO  com.omrbranch.utility.BaseClass - Browser launched successfully | Browser=CHROME | ImplicitWait=15s
+2025-12-17 19:24:45 INFO  com.omrbranch.hooks.HooksClass - Entering application URL
+2025-12-17 19:24:45 INFO  com.omrbranch.utility.BaseClass - Navigating to URL (QA) : https://www.omrbranch.com/
+2025-12-17 19:24:46 INFO  com.omrbranch.manager.PageObjectManager - Initializing LoginPage...
+2025-12-17 19:24:48 INFO  com.omrbranch.manager.PageObjectManager - Initializing ExploreHotelPage...
+2025-12-17 19:24:51 INFO  com.omrbranch.hooks.HooksClass - Scenario Passed : Verify login with valid credentials without Enter Key
+2025-12-17 19:24:51 INFO  com.omrbranch.hooks.HooksClass - Capturing screenshot
+2025-12-17 19:24:51 INFO  com.omrbranch.hooks.HooksClass - Closing browser
+2025-12-17 19:24:51 INFO  com.omrbranch.utility.BaseClass - Quitting browser session
+2025-12-17 19:24:54 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-17 19:24:54 INFO  com.omrbranch.hooks.HooksClass - Scenario Ended : Verify login with valid credentials without Enter Key
+2025-12-17 19:24:54 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-17 19:24:57 INFO  com.omrbranch.runner.TestRunnerClass - Cucumber execution completed. Generating JVM report from: C:\Users\Admin\eclipse-workspace\OmrBranchHotelProject_PrakashSK/target/output.json
+2025-12-17 19:24:57 INFO  com.omrbranch.report.Reporting - Starting JVM Report Generation...
+2025-12-17 19:24:57 INFO  com.omrbranch.report.Reporting - Created report directory: C:\Users\Admin\eclipse-workspace\OmrBranchHotelProject_PrakashSK\target\JVM_Report_20251217_192457
+2025-12-17 19:24:57 INFO  com.omrbranch.report.Reporting - Generating JVM report for JSON file(s): [C:\Users\Admin\eclipse-workspace\OmrBranchHotelProject_PrakashSK/target/output.json]
+2025-12-17 19:25:00 INFO  com.omrbranch.report.Reporting - ------------------------------------------------------------
+2025-12-17 19:25:00 INFO  com.omrbranch.report.Reporting - JVM Report Generated Successfully!
+2025-12-17 19:25:00 INFO  com.omrbranch.report.Reporting - Location : C:\Users\Admin\eclipse-workspace\OmrBranchHotelProject_PrakashSK\target\JVM_Report_20251217_192457
+2025-12-17 19:25:00 INFO  com.omrbranch.report.Reporting - Project  : OMR Branch Hotel Automation
+2025-12-17 19:25:00 INFO  com.omrbranch.report.Reporting - Author   : Prakash.S.K
+2025-12-17 19:25:00 INFO  com.omrbranch.report.Reporting - Env      : QA
+2025-12-17 19:25:00 INFO  com.omrbranch.report.Reporting - Time     : 20251217_192457
+2025-12-17 19:25:00 INFO  com.omrbranch.report.Reporting - ------------------------------------------------------------
+2025-12-17 19:25:00 INFO  com.omrbranch.runner.TestRunnerClass - JVM report generated successfully.
+2025-12-17 19:25:29 INFO  com.omrbranch.utility.BaseClass - Config.properties loaded successfully from: C:\Users\Admin\eclipse-workspace\OmrBranchHotelProject_PrakashSK\src\test\resources\config\Config.properties
+2025-12-17 19:25:29 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-17 19:25:29 INFO  com.omrbranch.hooks.HooksClass - Scenario Started : Verify login with valid credentials using Enter Key via Robot Class
+2025-12-17 19:25:29 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-17 19:25:29 INFO  com.omrbranch.hooks.HooksClass - Launching browser
+2025-12-17 19:25:29 INFO  com.omrbranch.utility.BaseClass - Launching browser: CHROME
+2025-12-17 19:25:32 INFO  com.omrbranch.utility.BaseClass - Browser launched successfully | Browser=CHROME | ImplicitWait=15s
+2025-12-17 19:25:32 INFO  com.omrbranch.hooks.HooksClass - Entering application URL
+2025-12-17 19:25:32 INFO  com.omrbranch.utility.BaseClass - Navigating to URL (QA) : https://www.omrbranch.com/
+2025-12-17 19:27:13 INFO  com.omrbranch.manager.PageObjectManager - Initializing ExploreHotelPage...
+2025-12-17 19:27:44 ERROR com.omrbranch.hooks.HooksClass - Scenario Failed : Verify login with valid credentials using Enter Key via Robot Class
+2025-12-17 19:27:44 INFO  com.omrbranch.hooks.HooksClass - Capturing screenshot
+2025-12-17 19:27:45 INFO  com.omrbranch.hooks.HooksClass - Closing browser
+2025-12-17 19:27:45 INFO  com.omrbranch.utility.BaseClass - Quitting browser session
+2025-12-17 19:27:45 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-17 19:27:45 INFO  com.omrbranch.hooks.HooksClass - Scenario Ended : Verify login with valid credentials using Enter Key via Robot Class
+2025-12-17 19:27:45 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-17 19:27:45 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-17 19:27:45 INFO  com.omrbranch.hooks.HooksClass - Scenario Started : Verify login with invalid credentials
+2025-12-17 19:27:45 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-17 19:27:45 INFO  com.omrbranch.hooks.HooksClass - Launching browser
+2025-12-17 19:27:45 INFO  com.omrbranch.utility.BaseClass - Launching browser: CHROME
+2025-12-17 19:27:47 INFO  com.omrbranch.utility.BaseClass - Browser launched successfully | Browser=CHROME | ImplicitWait=15s
+2025-12-17 19:27:47 INFO  com.omrbranch.hooks.HooksClass - Entering application URL
+2025-12-17 19:27:47 INFO  com.omrbranch.utility.BaseClass - Navigating to URL (QA) : https://www.omrbranch.com/
+2025-12-17 19:27:48 INFO  com.omrbranch.manager.PageObjectManager - Initializing LoginPage...
+2025-12-17 19:27:50 INFO  com.omrbranch.hooks.HooksClass - Scenario Passed : Verify login with invalid credentials
+2025-12-17 19:27:50 INFO  com.omrbranch.hooks.HooksClass - Capturing screenshot
+2025-12-17 19:27:51 INFO  com.omrbranch.hooks.HooksClass - Closing browser
+2025-12-17 19:27:51 INFO  com.omrbranch.utility.BaseClass - Quitting browser session
+2025-12-17 19:27:52 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-17 19:27:52 INFO  com.omrbranch.hooks.HooksClass - Scenario Ended : Verify login with invalid credentials
+2025-12-17 19:27:52 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-17 19:27:57 INFO  com.omrbranch.runner.TestRunnerClass - Cucumber execution completed. Generating JVM report from: C:\Users\Admin\eclipse-workspace\OmrBranchHotelProject_PrakashSK/target/output.json
+2025-12-17 19:27:57 INFO  com.omrbranch.report.Reporting - Starting JVM Report Generation...
+2025-12-17 19:27:57 INFO  com.omrbranch.report.Reporting - Created report directory: C:\Users\Admin\eclipse-workspace\OmrBranchHotelProject_PrakashSK\target\JVM_Report_20251217_192757
+2025-12-17 19:27:57 INFO  com.omrbranch.report.Reporting - Generating JVM report for JSON file(s): [C:\Users\Admin\eclipse-workspace\OmrBranchHotelProject_PrakashSK/target/output.json]
+2025-12-17 19:28:00 INFO  com.omrbranch.report.Reporting - ------------------------------------------------------------
+2025-12-17 19:28:00 INFO  com.omrbranch.report.Reporting - JVM Report Generated Successfully!
+2025-12-17 19:28:00 INFO  com.omrbranch.report.Reporting - Location : C:\Users\Admin\eclipse-workspace\OmrBranchHotelProject_PrakashSK\target\JVM_Report_20251217_192757
+2025-12-17 19:28:00 INFO  com.omrbranch.report.Reporting - Project  : OMR Branch Hotel Automation
+2025-12-17 19:28:00 INFO  com.omrbranch.report.Reporting - Author   : Prakash.S.K
+2025-12-17 19:28:00 INFO  com.omrbranch.report.Reporting - Env      : QA
+2025-12-17 19:28:00 INFO  com.omrbranch.report.Reporting - Time     : 20251217_192757
+2025-12-17 19:28:00 INFO  com.omrbranch.report.Reporting - ------------------------------------------------------------
+2025-12-17 19:28:00 INFO  com.omrbranch.runner.TestRunnerClass - JVM report generated successfully.
+2025-12-17 19:30:48 INFO  com.omrbranch.utility.BaseClass - Config.properties loaded successfully from: C:\Users\Admin\eclipse-workspace\OmrBranchHotelProject_PrakashSK\src\test\resources\config\Config.properties
+2025-12-17 19:30:48 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-17 19:30:48 INFO  com.omrbranch.hooks.HooksClass - Scenario Started : Verify login with valid credentials using Enter Key via Robot Class
+2025-12-17 19:30:48 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-17 19:30:48 INFO  com.omrbranch.hooks.HooksClass - Launching browser
+2025-12-17 19:30:48 INFO  com.omrbranch.utility.BaseClass - Launching browser: CHROME
+2025-12-17 19:30:53 INFO  com.omrbranch.utility.BaseClass - Browser launched successfully | Browser=CHROME | ImplicitWait=15s
+2025-12-17 19:30:53 INFO  com.omrbranch.hooks.HooksClass - Entering application URL
+2025-12-17 19:30:53 INFO  com.omrbranch.utility.BaseClass - Navigating to URL (QA) : https://www.omrbranch.com/
+2025-12-17 19:30:54 INFO  com.omrbranch.manager.PageObjectManager - Initializing ExploreHotelPage...
+2025-12-17 19:31:25 ERROR com.omrbranch.hooks.HooksClass - Scenario Failed : Verify login with valid credentials using Enter Key via Robot Class
+2025-12-17 19:31:25 INFO  com.omrbranch.hooks.HooksClass - Capturing screenshot
+2025-12-17 19:31:25 INFO  com.omrbranch.hooks.HooksClass - Closing browser
+2025-12-17 19:31:25 INFO  com.omrbranch.utility.BaseClass - Quitting browser session
+2025-12-17 19:31:26 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-17 19:31:26 INFO  com.omrbranch.hooks.HooksClass - Scenario Ended : Verify login with valid credentials using Enter Key via Robot Class
+2025-12-17 19:31:26 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-17 19:31:26 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-17 19:31:26 INFO  com.omrbranch.hooks.HooksClass - Scenario Started : Verify login with invalid credentials
+2025-12-17 19:31:26 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-17 19:31:26 INFO  com.omrbranch.hooks.HooksClass - Launching browser
+2025-12-17 19:31:26 INFO  com.omrbranch.utility.BaseClass - Launching browser: CHROME
+2025-12-17 19:31:28 INFO  com.omrbranch.utility.BaseClass - Browser launched successfully | Browser=CHROME | ImplicitWait=15s
+2025-12-17 19:31:28 INFO  com.omrbranch.hooks.HooksClass - Entering application URL
+2025-12-17 19:31:28 INFO  com.omrbranch.utility.BaseClass - Navigating to URL (QA) : https://www.omrbranch.com/
+2025-12-17 19:31:30 INFO  com.omrbranch.manager.PageObjectManager - Initializing LoginPage...
+2025-12-17 19:31:32 INFO  com.omrbranch.hooks.HooksClass - Scenario Passed : Verify login with invalid credentials
+2025-12-17 19:31:32 INFO  com.omrbranch.hooks.HooksClass - Capturing screenshot
+2025-12-17 19:31:33 INFO  com.omrbranch.hooks.HooksClass - Closing browser
+2025-12-17 19:31:33 INFO  com.omrbranch.utility.BaseClass - Quitting browser session
+2025-12-17 19:31:34 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-17 19:31:34 INFO  com.omrbranch.hooks.HooksClass - Scenario Ended : Verify login with invalid credentials
+2025-12-17 19:31:34 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-18 13:13:27 INFO  com.omrbranch.utility.BaseClass - Config.properties loaded successfully from: C:\Users\Admin\eclipse-workspace\OmrBranchHotelProject_PrakashSK\src\test\resources\config\Config.properties
+2025-12-18 13:13:27 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-18 13:13:27 INFO  com.omrbranch.hooks.HooksClass - Scenario Started : Verify login with valid credentials without Enter Key
+2025-12-18 13:13:27 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-18 13:13:27 INFO  com.omrbranch.hooks.HooksClass - Launching browser
+2025-12-18 13:13:27 INFO  com.omrbranch.utility.BaseClass - Launching browser: CHROME
+2025-12-18 13:13:32 INFO  com.omrbranch.utility.BaseClass - Browser launched successfully | Browser=CHROME | ImplicitWait=15s
+2025-12-18 13:13:32 INFO  com.omrbranch.hooks.HooksClass - Entering application URL
+2025-12-18 13:13:32 INFO  com.omrbranch.utility.BaseClass - Navigating to URL (QA) : https://www.omrbranch.com/
+2025-12-18 13:13:39 INFO  com.omrbranch.manager.PageObjectManager - Initializing LoginPage...
+2025-12-18 13:13:42 INFO  com.omrbranch.manager.PageObjectManager - Initializing ExploreHotelPage...
+2025-12-18 13:13:48 INFO  com.omrbranch.hooks.HooksClass - Scenario Passed : Verify login with valid credentials without Enter Key
+2025-12-18 13:13:48 INFO  com.omrbranch.hooks.HooksClass - Capturing screenshot
+2025-12-18 13:13:49 INFO  com.omrbranch.hooks.HooksClass - Closing browser
+2025-12-18 13:13:49 INFO  com.omrbranch.utility.BaseClass - Quitting browser session
+2025-12-18 13:13:49 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-18 13:13:49 INFO  com.omrbranch.hooks.HooksClass - Scenario Ended : Verify login with valid credentials without Enter Key
+2025-12-18 13:13:49 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-18 13:13:53 INFO  com.omrbranch.runner.TestRunnerClass - Cucumber execution completed. Generating JVM report from: C:\Users\Admin\eclipse-workspace\OmrBranchHotelProject_PrakashSK/target/output.json
+2025-12-18 13:13:53 INFO  com.omrbranch.report.Reporting - Starting JVM Report Generation...
+2025-12-18 13:13:53 INFO  com.omrbranch.report.Reporting - Created report directory: C:\Users\Admin\eclipse-workspace\OmrBranchHotelProject_PrakashSK\target\JVM_Report_20251218_131353
+2025-12-18 13:13:53 INFO  com.omrbranch.report.Reporting - Generating JVM report for JSON file(s): [C:\Users\Admin\eclipse-workspace\OmrBranchHotelProject_PrakashSK/target/output.json]
+2025-12-18 13:13:55 INFO  com.omrbranch.report.Reporting - ------------------------------------------------------------
+2025-12-18 13:13:55 INFO  com.omrbranch.report.Reporting - JVM Report Generated Successfully!
+2025-12-18 13:13:55 INFO  com.omrbranch.report.Reporting - Location : C:\Users\Admin\eclipse-workspace\OmrBranchHotelProject_PrakashSK\target\JVM_Report_20251218_131353
+2025-12-18 13:13:55 INFO  com.omrbranch.report.Reporting - Project  : OMR Branch Hotel Automation
+2025-12-18 13:13:55 INFO  com.omrbranch.report.Reporting - Author   : Prakash.S.K
+2025-12-18 13:13:55 INFO  com.omrbranch.report.Reporting - Env      : QA
+2025-12-18 13:13:55 INFO  com.omrbranch.report.Reporting - Time     : 20251218_131353
+2025-12-18 13:13:55 INFO  com.omrbranch.report.Reporting - ------------------------------------------------------------
+2025-12-18 13:13:55 INFO  com.omrbranch.runner.TestRunnerClass - JVM report generated successfully.
+2025-12-18 13:16:53 INFO  com.omrbranch.utility.BaseClass - Config.properties loaded successfully from: C:\Users\Admin\eclipse-workspace\OmrBranchHotelProject_PrakashSK\src\test\resources\config\Config.properties
+2025-12-18 13:16:53 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-18 13:16:53 INFO  com.omrbranch.hooks.HooksClass - Scenario Started : Verify login with valid credentials without Enter Key
+2025-12-18 13:16:53 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-18 13:16:53 INFO  com.omrbranch.hooks.HooksClass - Launching browser
+2025-12-18 13:16:53 INFO  com.omrbranch.utility.BaseClass - Launching browser: CHROME
+2025-12-18 13:16:55 INFO  com.omrbranch.utility.BaseClass - Browser launched successfully | Browser=CHROME | ImplicitWait=15s
+2025-12-18 13:16:55 INFO  com.omrbranch.hooks.HooksClass - Entering application URL
+2025-12-18 13:16:55 INFO  com.omrbranch.utility.BaseClass - Navigating to URL (QA) : https://www.omrbranch.com/
+2025-12-18 13:16:57 INFO  com.omrbranch.manager.PageObjectManager - Initializing LoginPage...
+2025-12-18 13:16:58 INFO  com.omrbranch.manager.PageObjectManager - Initializing ExploreHotelPage...
+2025-12-18 13:17:01 INFO  com.omrbranch.hooks.HooksClass - Scenario Passed : Verify login with valid credentials without Enter Key
+2025-12-18 13:17:01 INFO  com.omrbranch.hooks.HooksClass - Capturing screenshot
+2025-12-18 13:17:01 INFO  com.omrbranch.hooks.HooksClass - Closing browser
+2025-12-18 13:17:01 INFO  com.omrbranch.utility.BaseClass - Quitting browser session
+2025-12-18 13:17:01 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-18 13:17:01 INFO  com.omrbranch.hooks.HooksClass - Scenario Ended : Verify login with valid credentials without Enter Key
+2025-12-18 13:17:01 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-18 13:17:05 INFO  com.omrbranch.runner.TestRunnerClass - Cucumber execution completed. Generating JVM report from: C:\Users\Admin\eclipse-workspace\OmrBranchHotelProject_PrakashSK/target/output.json
+2025-12-18 13:17:05 INFO  com.omrbranch.report.Reporting - Starting JVM Report Generation...
+2025-12-18 13:17:05 INFO  com.omrbranch.report.Reporting - Created report directory: C:\Users\Admin\eclipse-workspace\OmrBranchHotelProject_PrakashSK\target\JVM_Report_20251218_131705
+2025-12-18 13:17:05 INFO  com.omrbranch.report.Reporting - Generating JVM report for JSON file(s): [C:\Users\Admin\eclipse-workspace\OmrBranchHotelProject_PrakashSK/target/output.json]
+2025-12-18 13:17:07 INFO  com.omrbranch.report.Reporting - ------------------------------------------------------------
+2025-12-18 13:17:07 INFO  com.omrbranch.report.Reporting - JVM Report Generated Successfully!
+2025-12-18 13:17:07 INFO  com.omrbranch.report.Reporting - Location : C:\Users\Admin\eclipse-workspace\OmrBranchHotelProject_PrakashSK\target\JVM_Report_20251218_131705
+2025-12-18 13:17:07 INFO  com.omrbranch.report.Reporting - Project  : OMR Branch Hotel Automation
+2025-12-18 13:17:07 INFO  com.omrbranch.report.Reporting - Author   : Prakash.S.K
+2025-12-18 13:17:07 INFO  com.omrbranch.report.Reporting - Env      : QA
+2025-12-18 13:17:07 INFO  com.omrbranch.report.Reporting - Time     : 20251218_131705
+2025-12-18 13:17:07 INFO  com.omrbranch.report.Reporting - ------------------------------------------------------------
+2025-12-18 13:17:07 INFO  com.omrbranch.runner.TestRunnerClass - JVM report generated successfully.
+2025-12-18 13:21:37 INFO  com.omrbranch.utility.BaseClass - Config.properties loaded successfully from: C:\Users\Admin\eclipse-workspace\OmrBranchHotelProject_PrakashSK\src\test\resources\config\Config.properties
+2025-12-18 13:21:37 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-18 13:21:37 INFO  com.omrbranch.hooks.HooksClass - Scenario Started : Verify login with valid credentials without Enter Key
+2025-12-18 13:21:37 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-18 13:21:37 INFO  com.omrbranch.hooks.HooksClass - Launching browser
+2025-12-18 13:21:37 INFO  com.omrbranch.utility.BaseClass - Launching browser: CHROME
+2025-12-18 13:21:39 INFO  com.omrbranch.utility.BaseClass - Browser launched successfully | Browser=CHROME | ImplicitWait=15s
+2025-12-18 13:21:39 INFO  com.omrbranch.hooks.HooksClass - Entering application URL
+2025-12-18 13:21:39 INFO  com.omrbranch.utility.BaseClass - Navigating to URL (UAT) : https://uat.omrbranch.com/
+2025-12-18 13:21:41 ERROR com.omrbranch.hooks.HooksClass - Scenario Failed : Verify login with valid credentials without Enter Key
+2025-12-18 13:21:41 INFO  com.omrbranch.hooks.HooksClass - Capturing screenshot
+2025-12-18 13:21:41 INFO  com.omrbranch.hooks.HooksClass - Closing browser
+2025-12-18 13:21:41 INFO  com.omrbranch.utility.BaseClass - Quitting browser session
+2025-12-18 13:21:41 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-18 13:21:41 INFO  com.omrbranch.hooks.HooksClass - Scenario Ended : Verify login with valid credentials without Enter Key
+2025-12-18 13:21:41 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-18 13:21:44 INFO  com.omrbranch.runner.TestRunnerClass - Cucumber execution completed. Generating JVM report from: C:\Users\Admin\eclipse-workspace\OmrBranchHotelProject_PrakashSK/target/output.json
+2025-12-18 13:21:44 INFO  com.omrbranch.report.Reporting - Starting JVM Report Generation...
+2025-12-18 13:21:44 INFO  com.omrbranch.report.Reporting - Created report directory: C:\Users\Admin\eclipse-workspace\OmrBranchHotelProject_PrakashSK\target\JVM_Report_20251218_132144
+2025-12-18 13:21:44 INFO  com.omrbranch.report.Reporting - Generating JVM report for JSON file(s): [C:\Users\Admin\eclipse-workspace\OmrBranchHotelProject_PrakashSK/target/output.json]
+2025-12-18 13:21:45 INFO  com.omrbranch.report.Reporting - ------------------------------------------------------------
+2025-12-18 13:21:45 INFO  com.omrbranch.report.Reporting - JVM Report Generated Successfully!
+2025-12-18 13:21:45 INFO  com.omrbranch.report.Reporting - Location : C:\Users\Admin\eclipse-workspace\OmrBranchHotelProject_PrakashSK\target\JVM_Report_20251218_132144
+2025-12-18 13:21:45 INFO  com.omrbranch.report.Reporting - Project  : OMR Branch Hotel Automation
+2025-12-18 13:21:45 INFO  com.omrbranch.report.Reporting - Author   : Prakash.S.K
+2025-12-18 13:21:45 INFO  com.omrbranch.report.Reporting - Env      : UAT
+2025-12-18 13:21:45 INFO  com.omrbranch.report.Reporting - Time     : 20251218_132144
+2025-12-18 13:21:45 INFO  com.omrbranch.report.Reporting - ------------------------------------------------------------
+2025-12-18 13:21:45 INFO  com.omrbranch.runner.TestRunnerClass - JVM report generated successfully.
+2025-12-18 13:29:32 INFO  com.omrbranch.utility.BaseClass - Config.properties loaded successfully from: C:\Users\Admin\eclipse-workspace\OmrBranchHotelProject_PrakashSK\src\test\resources\config\Config.properties
+2025-12-18 13:29:32 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-18 13:29:32 INFO  com.omrbranch.hooks.HooksClass - Scenario Started : Verify login with valid credentials without Enter Key
+2025-12-18 13:29:32 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-18 13:29:32 INFO  com.omrbranch.hooks.HooksClass - Launching browser
+2025-12-18 13:29:32 INFO  com.omrbranch.utility.BaseClass - Launching browser: CHROME
+2025-12-18 13:29:34 INFO  com.omrbranch.utility.BaseClass - Browser launched successfully | Browser=CHROME | ImplicitWait=15s
+2025-12-18 13:29:34 INFO  com.omrbranch.hooks.HooksClass - Entering application URL
+2025-12-18 13:29:34 INFO  com.omrbranch.utility.BaseClass - Navigating to URL (QA) : https://www.omrbranch.com/
+2025-12-18 13:29:36 INFO  com.omrbranch.manager.PageObjectManager - Initializing LoginPage...
+2025-12-18 13:29:37 INFO  com.omrbranch.manager.PageObjectManager - Initializing ExploreHotelPage...
+2025-12-18 13:29:39 INFO  com.omrbranch.hooks.HooksClass - Scenario Passed : Verify login with valid credentials without Enter Key
+2025-12-18 13:29:39 INFO  com.omrbranch.hooks.HooksClass - Capturing screenshot
+2025-12-18 13:29:39 INFO  com.omrbranch.hooks.HooksClass - Closing browser
+2025-12-18 13:29:39 INFO  com.omrbranch.utility.BaseClass - Quitting browser session
+2025-12-18 13:29:40 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-18 13:29:40 INFO  com.omrbranch.hooks.HooksClass - Scenario Ended : Verify login with valid credentials without Enter Key
+2025-12-18 13:29:40 INFO  com.omrbranch.hooks.HooksClass - ==============================================
+2025-12-18 13:29:43 INFO  com.omrbranch.runner.TestRunnerClass - Cucumber execution completed. Generating JVM report from: C:\Users\Admin\eclipse-workspace\OmrBranchHotelProject_PrakashSK/target/output.json
+2025-12-18 13:29:43 INFO  com.omrbranch.report.Reporting - Starting JVM Report Generation...
+2025-12-18 13:29:43 INFO  com.omrbranch.report.Reporting - Created report directory: C:\Users\Admin\eclipse-workspace\OmrBranchHotelProject_PrakashSK\target\JVM_Report_20251218_132943
+2025-12-18 13:29:43 INFO  com.omrbranch.report.Reporting - Generating JVM report for JSON file(s): [C:\Users\Admin\eclipse-workspace\OmrBranchHotelProject_PrakashSK/target/output.json]
+2025-12-18 13:29:44 INFO  com.omrbranch.report.Reporting - ------------------------------------------------------------
+2025-12-18 13:29:44 INFO  com.omrbranch.report.Reporting - JVM Report Generated Successfully!
+2025-12-18 13:29:44 INFO  com.omrbranch.report.Reporting - Location : C:\Users\Admin\eclipse-workspace\OmrBranchHotelProject_PrakashSK\target\JVM_Report_20251218_132943
+2025-12-18 13:29:44 INFO  com.omrbranch.report.Reporting - Project  : OMR Branch Hotel Automation
+2025-12-18 13:29:44 INFO  com.omrbranch.report.Reporting - Author   : Prakash.S.K
+2025-12-18 13:29:44 INFO  com.omrbranch.report.Reporting - Env      : UAT
+2025-12-18 13:29:44 INFO  com.omrbranch.report.Reporting - Time     : 20251218_132943
+2025-12-18 13:29:44 INFO  com.omrbranch.report.Reporting - ------------------------------------------------------------
+2025-12-18 13:29:44 INFO  com.omrbranch.runner.TestRunnerClass - JVM report generated successfully.
